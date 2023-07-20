@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
 nav_order: 1
-redirect_to: /assets/pdf/Ortiz_CV.pdf
+cv_pdf: example_pdf.pdf
 ---
