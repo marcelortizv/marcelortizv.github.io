@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Research
-description: Publications and working papers.
+description: Publications, WP & Work in Progress.
 nav: true
 nav_order: 2
 ---
