@@ -5,8 +5,8 @@ permalink: /
 subtitle:
 
 profile:
-  align: left
-  image: profile_photo2.jpg
+  align: right
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>R. Randall Rollins</p>
