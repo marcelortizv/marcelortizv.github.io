@@ -6,10 +6,10 @@ subtitle:
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: profile_photo2.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>R. Randall Rollins, 4th Floor</p>
+    <p>R. Randall Rollins</p>
     <p>1516 Clifton Road, NE</p>
     <p>Atlanta, GA 30322</p>
 
