@@ -1,8 +1,10 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 1
-cv_pdf: Ortiz_CV.pdf
+order: 2
 ---
+<a href="/assets/pdf/Ortiz_CV.pdf">Open in browser</a>
+<br> <br>
+<embed src="/assets/pdf/Ortiz_CV.pdf" width="900" height="1100" type="application/pdf">
