@@ -120,12 +120,12 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog # blog_name will be displayed in your blog page
-blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-nav: false
-nav_order: 6
-blog_description: A blog in economics, causal inference and data science.
-permalink: /blog/:year/:title/
+#blog_name: Blog # blog_name will be displayed in your blog page
+#blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+#nav: false
+#nav_order: 6
+#blog_description: A blog in economics, causal inference and data science.
+#permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
