@@ -16,7 +16,7 @@ nav_order: 3
         <h5 class="font-weight-bold">Topics in High-Dimensional Econometrics and ML Theory</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+        <span class="badge font-weight-bold cyan-color text-uppercase align-middle">
             ECON 697R
         </span>
       </div>
