@@ -9,22 +9,24 @@ nav_order: 3
 
 <h3 class="mt-4">Emory University</h3>
 
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h5 class="font-weight-bold">Topics in High-Dimensional Econometrics and ML Theory</h5>
+<a href="https://marcelortiz.com/ECON697R/" target="_blank" style="text-decoration: none;">
+  <div class="card mt-3">
+    <div class="p-3">
+      <div class="row">
+        <div class="col-sm-10">
+          <h5 class="font-weight-bold">Topics in High-Dimensional Econometrics and ML Theory</h5>
+        </div>
+        <div class="col-sm-2 text-left text-sm-right">
+          <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+              ECON 697R
+          </span>
+        </div>
       </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-            ECON 697R
-        </span>
-      </div>
+      <h6 class="font-italic mt-2 mt-sm-0">Directed Study: Spring 2024</h6>
+      Directed study on advancted topics in econometrics/statistical learning theory: Concentration Inequalities, Uniform Law of Large Numbers, Sparse linear model in high-dimensions, Reproducing Kernel Hilbert Spaces, Semiparametric Efficiency Theory in Causal Inference, and Double/Debiased Machine Learning.
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Directed Study: Spring 2024</h6>
-    Directed study on advancted topics in econometrics/statistical learning theory: Concentration Inequalities, Uniform Law of Large Numbers, Sparse linear model in high-dimensions, Reproducing Kernel Hilbert Spaces, Semiparametric Efficiency Theory in Causal Inference, and Double/Debiased Machine Learning.
   </div>
-</div>
+</a>
 
 <div class="card mt-3">
   <div class="p-3">
