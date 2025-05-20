@@ -9,9 +9,8 @@ last_name: Ortiz-Villavicencio
 email: marcelo.ortiz@emory.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Economics PhD student at Emory University.
-footer_text: >
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+footer_text: 
+keywords:  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: logo.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -75,7 +74,7 @@ twitter_username: marcelortizv
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: marcelortizv
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: _W7-wbkAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0002-5821-7806
@@ -372,7 +371,7 @@ enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
-enable_navbar_social:       false  # enables displaying social links in the
+enable_navbar_social:       true  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
