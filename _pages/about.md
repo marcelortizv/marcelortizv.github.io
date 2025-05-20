@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a third-year Ph.D. student in the Department of Economics at [Emory University](https://economics.emory.edu/people/doctoral-students/ortiz-marcelo.html){:target="_blank"}. I hold a B.A. and M.Sc. in Economics from [ESPOL](https://www.espol.edu.ec/){:target="_blank"}.
+I am a third-year Ph.D. candidate in Economics at [Emory University](https://economics.emory.edu/people/doctoral-students/ortiz-marcelo.html){:target="_blank"}. I hold a B.A. and M.Sc. in Economics from [ESPOL](https://www.espol.edu.ec/){:target="_blank"}.
 
-Prior to joining Emory, I gained experience as Data Scientist and Machine Learning Engineer in the tech industry and, also worked as Research Consultant at the [Inter-American Development Bank](https://www.iadb.org/en){:target="_blank"}.
+Before starting my doctorate, I worked in the tech sector as Data Scientist and Machine Learning Engineer, and served as a Research Consultant for the [Inter-American Development Bank](https://www.iadb.org/en){:target="_blank"}.
 
-My research interests lie in the fields of Econometrics, Causal Inference, Machine Learning, and Applied Microeconomics.
+My research focuses on applied and theoretical econometrics, with an emphasis on causal inference, statistical learning, and semiparametric efficiency theory. I develop rigorous methods to address policy-relevant questions in applied microeconomics.
