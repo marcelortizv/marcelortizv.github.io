@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /research/
 title: Research
 description: Publications & Working Papers
 years: [2024]
